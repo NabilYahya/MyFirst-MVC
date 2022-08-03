@@ -1,0 +1,26 @@
+C:\Users\HP\source\repos\MtFirst MVC\MtFirst MVC\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\HP\source\repos\MtFirst MVC\MtFirst MVC\bin\Debug\net6.0\appsettings.json
+C:\Users\HP\source\repos\MtFirst MVC\MtFirst MVC\bin\Debug\net6.0\MtFirst MVC.staticwebassets.runtime.json
+C:\Users\HP\source\repos\MtFirst MVC\MtFirst MVC\bin\Debug\net6.0\MtFirst MVC.exe
+C:\Users\HP\source\repos\MtFirst MVC\MtFirst MVC\bin\Debug\net6.0\MtFirst MVC.deps.json
+C:\Users\HP\source\repos\MtFirst MVC\MtFirst MVC\bin\Debug\net6.0\MtFirst MVC.runtimeconfig.json
+C:\Users\HP\source\repos\MtFirst MVC\MtFirst MVC\bin\Debug\net6.0\MtFirst MVC.dll
+C:\Users\HP\source\repos\MtFirst MVC\MtFirst MVC\bin\Debug\net6.0\MtFirst MVC.pdb
+C:\Users\HP\source\repos\MtFirst MVC\MtFirst MVC\obj\Debug\net6.0\MtFirst MVC.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\MtFirst MVC\MtFirst MVC\obj\Debug\net6.0\MtFirst MVC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\MtFirst MVC\MtFirst MVC\obj\Debug\net6.0\MtFirst MVC.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\MtFirst MVC\MtFirst MVC\obj\Debug\net6.0\MtFirst MVC.AssemblyInfo.cs
+C:\Users\HP\source\repos\MtFirst MVC\MtFirst MVC\obj\Debug\net6.0\MtFirst MVC.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\MtFirst MVC\MtFirst MVC\obj\Debug\net6.0\MtFirst MVC.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\HP\source\repos\MtFirst MVC\MtFirst MVC\obj\Debug\net6.0\MtFirst MVC.RazorAssemblyInfo.cache
+C:\Users\HP\source\repos\MtFirst MVC\MtFirst MVC\obj\Debug\net6.0\MtFirst MVC.RazorAssemblyInfo.cs
+C:\Users\HP\source\repos\MtFirst MVC\MtFirst MVC\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\HP\source\repos\MtFirst MVC\MtFirst MVC\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\HP\source\repos\MtFirst MVC\MtFirst MVC\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\HP\source\repos\MtFirst MVC\MtFirst MVC\obj\Debug\net6.0\scopedcss\bundle\MtFirst MVC.styles.css
+C:\Users\HP\source\repos\MtFirst MVC\MtFirst MVC\obj\Debug\net6.0\scopedcss\projectbundle\MtFirst MVC.bundle.scp.css
+C:\Users\HP\source\repos\MtFirst MVC\MtFirst MVC\obj\Debug\net6.0\MtFirst MVC.dll
+C:\Users\HP\source\repos\MtFirst MVC\MtFirst MVC\obj\Debug\net6.0\refint\MtFirst MVC.dll
+C:\Users\HP\source\repos\MtFirst MVC\MtFirst MVC\obj\Debug\net6.0\MtFirst MVC.pdb
+C:\Users\HP\source\repos\MtFirst MVC\MtFirst MVC\obj\Debug\net6.0\MtFirst MVC.genruntimeconfig.cache
+C:\Users\HP\source\repos\MtFirst MVC\MtFirst MVC\obj\Debug\net6.0\ref\MtFirst MVC.dll
